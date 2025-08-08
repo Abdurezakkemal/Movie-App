@@ -17,10 +17,14 @@ A sleek and modern movie application built with Flutter. Discover new movies, ge
 | Login Screen | Home Screen | Movie Details |
 | :----------: | :---------: | :-----------: |
 <p align="center">
-  <img src="image1.jpg" alt="Screenshot 1" width="45%" />
-  <img src="image2.jpg" alt="Screenshot 2" width="45%" />
-   <img src="image3.jpg" alt="Screenshot 2" width="45%" />
- 
+  <img src="image1.jpg" alt="Screenshot 1" width="22.5%" />
+  <img src="image2.jpg" alt="Screenshot 2" width="22.5%" />
+   <img src="image3.jpg" alt="Screenshot 2" width="22.5%" />
+   <img src="image4.jpg" alt="Screenshot 2" width="22.5%" />
+    <img src="image5.jpg" alt="Screenshot 1" width="22.5%" />
+  <img src="image6.jpg" alt="Screenshot 2" width="22.5%" />
+   <img src="image7.jpg" alt="Screenshot 2" width="22.5%" />
+   
 </p>
 
 
